@@ -1,0 +1,3 @@
+# Web-Scrapping using Beautifulsoup
+
+This project is developed as a capstone project from Algoritma Academy Data Analytics Specialization with a simple webscrapping case and how to visualise the data with plots
