@@ -9,4 +9,4 @@ The source used for this project is from https://monexnews.com/kurs-valuta-asing
 I created an additional columns created the information of periods and average of both ask and bid value
 
 Here is the data
-![](assetsscreenshot.jpg)
+![](asset/result.png)
