@@ -9,4 +9,15 @@ The source used for this project is from https://monexnews.com/kurs-valuta-asing
 I created an additional columns created the information of periods and average of both ask and bid value
 
 Here is the data
-![](asset/result.png)
+
+![](assets/result.png)
+
+And this the plot
+
+![](assets/plot.png)
+
+# Conclusion
+
+The chart depicts the exchange rate of JPY against the IDR and vice versa in 2019. It was very fluctuative both for the ask (jual) and bid (beli) for the following 4 months before dropped significantly in April which marked the lowest number before rose rapidly in June. There was also a sharp fell in July to around 3 points for both then peaked in August, reaching the highest level for both of indicators and it finally faced downward trend until December.
+
+From this chart, we also can conclude that ask (jual) number is always higher than bid (beli) number
