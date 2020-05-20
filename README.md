@@ -20,4 +20,6 @@ And this the plot
 
 The chart depicts the exchange rate of JPY against the IDR and vice versa in 2019. It shows fluctuative movement both for the ask (jual) and bid (beli) for the following 4 months before dropped significantly in April which marked the lowest number before rose rapidly in June. There was also a sharp fell in July to around 3 points for both then peaked in August, reaching the highest level for both of indicators and it finally faced downward trend until December. Overall, the curve showed a relation between ask (jual) and bid (jual) are always following each other. The lowest point for both components was on April 2019 and the highest point was on August 2019.ways following each other. The lowest point for both components was on April 2019 and the highest point was on August 2019.
 
+From this chart, we also can conclude that ask (jual) number is always higher than bid (beli) number
+
 The volatility of exchage rate mostly affected by the purchasing power of income and capital gains derived from any returns. Moreover, the exchange rate influences other income factors such as interest rates, inflation and even capital gains from domestic securities.
