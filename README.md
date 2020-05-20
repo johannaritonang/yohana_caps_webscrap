@@ -23,3 +23,5 @@ The chart depicts the exchange rate of JPY against the IDR and vice versa in 201
 From this chart, we also can conclude that ask (jual) number is always higher than bid (beli) number
 
 The volatility of exchage rate mostly affected by the purchasing power of income and capital gains derived from any returns. Moreover, the exchange rate influences other income factors such as interest rates, inflation and even capital gains from domestic securities.
+
+From this chart, we also can conclude that ask (jual) number is always higher than bid (beli) number
